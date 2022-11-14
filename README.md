@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🌸, I'm Sacha</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sorio51&label=Profile%20views&color=0e75b6&style=flat" alt="sorio51" /> </p>
 
-- 🔭 I’m currently working on a **Chess AI on Python**
+- 🔭 I’m currently working on an **API Project**
 
 - 🌱 I’m currently learning **C, Python, HTML/CSS**
 
